@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SGP40	KEYWORD1
+SGP40ERR	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+enableDebugging	KEYWORD2
+measureTest	KEYWORD2
+softReset	KEYWORD2
+heaterOff	KEYWORD2
+measureRaw	KEYWORD2
+getVOCindex	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SGP40_SUCCESS	LITERAL1
+SGP40_ERR_BAD_CRC	LITERAL1
+SGP40_ERR_I2C_ERROR	LITERAL1
+SGP40_MEASURE_TEST_FAIL	LITERAL1
