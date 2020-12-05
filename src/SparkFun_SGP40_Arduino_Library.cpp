@@ -1,5 +1,5 @@
 /*
-  This is a library written for the SPG30
+  This is a library written for the SPG40
   By Paul Clark @ SparkFun Electronics, December 5th, 2020
 
 
