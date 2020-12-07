@@ -192,25 +192,25 @@ SGP40ERR SGP40::measureRaw(uint16_t *SRAW_ticks, float RH, float T)
   if (RH < 0)
   {
     if (_printDebug == true)
-      _debugPort->print(F("measureRaw: RH too low! Correcting..."));
+      _debugPort->println(F("measureRaw: RH too low! Correcting..."));
     RH = 0;
   }
   if (RH > 100)
   {
     if (_printDebug == true)
-      _debugPort->print(F("measureRaw: RH too high! Correcting..."));
+      _debugPort->println(F("measureRaw: RH too high! Correcting..."));
     RH = 100;
   }
   if (T < -45)
   {
     if (_printDebug == true)
-      _debugPort->print(F("measureRaw: T too low! Correcting..."));
+      _debugPort->println(F("measureRaw: T too low! Correcting..."));
     T = -45;
   }
   if (T > 130)
   {
     if (_printDebug == true)
-      _debugPort->print(F("measureRaw: T too high! Correcting..."));
+      _debugPort->println(F("measureRaw: T too high! Correcting..."));
     T = 130;
   }
 
