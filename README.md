@@ -1,6 +1,6 @@
 SparkFun SGP40 Library
 ===========================================================
- [![SparkX SGP40 Breakout (Qwiic) (SPX-17729)]()](https://www.sparkfun.com/products/17729)
+[![SparkX SGP40 Breakout (Qwiic) (SPX-17729)](https://cdn.sparkfun.com//assets/parts/1/6/8/4/5/17729-SGP40_Air_Quality_Sensor-01.jpg)](https://www.sparkfun.com/products/17729)
 
 [*SparkX SGP40 Breakout (Qwiic) (SPX-17729)*](https://www.sparkfun.com/products/17729)
 
