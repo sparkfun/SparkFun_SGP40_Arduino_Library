@@ -37,5 +37,5 @@ void loop()
   Serial.print(F("VOC Index is: "));
   Serial.println(mySensor.getVOCindex()); //Get the VOC Index using the default RH (50%) and T (25C)
 
-  delay(5000); //Wait 5 seconds
+  delay(1000); //Wait 1 second - the Sensirion VOC algorithm expects a sample rate of 1Hz
 }
