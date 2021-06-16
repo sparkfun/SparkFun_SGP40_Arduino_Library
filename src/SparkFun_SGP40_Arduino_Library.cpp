@@ -54,6 +54,9 @@ SGP40::SGP40()
 bool SGP40::begin(TwoWire &wirePort)
 {
   _i2cPort = &wirePort; //Grab which port the user wants us to use
+
+  VocAlgorithm_init(&vocAlgorithmParameters); //Initialize the VOC parameters
+
   SGP40ERR result = measureTest();
   return (result == SGP40_SUCCESS);
 }
