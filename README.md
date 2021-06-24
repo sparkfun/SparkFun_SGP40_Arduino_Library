@@ -1,8 +1,8 @@
 SparkFun SGP40 Library
 ===========================================================
-[![SparkX SGP40 Breakout (Qwiic) (SPX-17729)](https://cdn.sparkfun.com//assets/parts/1/6/8/4/5/17729-SGP40_Air_Quality_Sensor-01.jpg)](https://www.sparkfun.com/products/17729)
+[![SparkFun Air Quality Sensor Breakout - SGP40 (Qwiic) (SEN-18345)](https://cdn.sparkfun.com/assets/parts/1/7/6/8/0/18345-SparkFun_Air_Quality_Sensor_Breakout_-_SGP40__Qwiic_-01.jpg)](https://www.sparkfun.com/products/18345)
 
-[*SparkX SGP40 Breakout (Qwiic) (SPX-17729)*](https://www.sparkfun.com/products/17729)
+[*SparkFun Air Quality Sensor Breakout - SGP40 (Qwiic) (SEN-18345)*](https://www.sparkfun.com/products/18345)
 
 The SGP40 is a digital gas sensor designed for easy integration into air purifiers or demand-controlled ventilation systems.
 Sensirion’s CMOSens® technology offers a complete, easy to use sensor system on a single chip featuring a digital
@@ -29,10 +29,13 @@ Documentation
 --------------
 
 * **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
-* **[Product Repository](https://github.com/sparkfunX/SparkX_Air_Quality_Sensor-SGP40)** - Main repository (including hardware files)
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/air-quality-sensor---sgp40-qwiic-hookup-guide)** - Basic Hookup Guide for the SparkFun Air Quality Sensor - SGP40 (Qwiic).
+* **[SparkFun Version Product Repository](https://github.com/sparkfun/Qwiic_Air_Quality_Sensor_SGP40)** - Main SparkFun version repository.
+* **[SparkX Version Product Repository](https://github.com/sparkfunX/SparkX_Air_Quality_Sensor-SGP40)** - Main SparkX version repository (including hardware files)
 
 Products that use this library
 --------------
+* [SEN-18345](https://www.sparkfun.com/products/18345) - SparkFun Version
 * [SPX-17729](https://www.sparkfun.com/products/17729)- SparkX Version
 
 License Information
