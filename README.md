@@ -1,5 +1,6 @@
 SparkFun SGP40 Library
 ===========================================================
+
 [![SparkFun Air Quality Sensor Breakout - SGP40 (Qwiic) (SEN-18345)](https://cdn.sparkfun.com/assets/parts/1/7/6/8/0/18345-SparkFun_Air_Quality_Sensor_Breakout_-_SGP40__Qwiic_-01.jpg)](https://www.sparkfun.com/products/18345)
 
 [*SparkFun Air Quality Sensor Breakout - SGP40 (Qwiic) (SEN-18345)*](https://www.sparkfun.com/products/18345)
@@ -35,8 +36,10 @@ Documentation
 
 Products that use this library
 --------------
-* [SEN-18345](https://www.sparkfun.com/products/18345) - SparkFun Version
-* [SPX-17729](https://www.sparkfun.com/products/17729)- SparkX Version
+
+* [SEN-18632](https://www.sparkfun.com/products/18632) - SparkFun MicroMod Environmental Function Board with SGP40, STC31, and SHTC3
+* [SEN-18345](https://www.sparkfun.com/products/18345) - SparkFun Breakout Version
+* [SPX-17729](https://www.sparkfun.com/products/17729) - SparkX Breakout Version
 
 License Information
 -------------------
