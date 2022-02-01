@@ -87,8 +87,8 @@ SGP40ERR SGP40::measureTest(void)
     return SGP40_ERR_I2C_ERROR;
   }
 
-  //Hang out while measurement is taken. datasheet says 250ms
-  delay(250);
+  //Hang out while measurement is taken. v1.1 of the datasheet says 320ms
+  delay(320);
 
   //Comes back in 3 bytes, data(MSB) / data(LSB) / Checksum
   uint8_t toRead = _i2cPort->requestFrom(_SGP40Address, (uint8_t)3);
